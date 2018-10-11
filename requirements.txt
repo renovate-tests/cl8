@@ -1,1 +1,1 @@
-django-sendgrid-v5==0.6.893
+django-sendgrid-v5==0.7.0
